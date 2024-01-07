@@ -1,12 +1,12 @@
-# <!-- config folder -->
+# config folder
 
 1. database connection setup
 
-# <!-- models folder -->
+# models folder
 
 1. create todo and user model schema
 
-# <!-- env file -->
+# env file
 
 1. store database connection url
 2. port in which server is running
@@ -15,7 +15,7 @@
 
 ### PORT=8000
 
-# <!-- index.js file -->
+# index.js file
 
 1. create requests to handle user login and todos data api
 2. all type of request like GET,POST,PUT,DELETE
