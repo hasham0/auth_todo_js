@@ -1,4 +1,4 @@
-# <!--Components folder  -->
+# Components folder
 
 1. components contain 3 folder header,login and todo app
 
@@ -12,6 +12,6 @@
 
 2. if the user login again then the user id will use to filter the requied todos that belongs to the user and then display on the app.
 
-# <!-- routes folder -->
+# routes folder
 
 1. route control the navigation
